@@ -1,0 +1,3 @@
+aiohttp>=3.9
+# only needed for the same-WiFi version (phonecam.py):
+cryptography>=42
