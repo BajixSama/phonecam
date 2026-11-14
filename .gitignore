@@ -1,0 +1,8 @@
+cloudflared
+cloudflared.exe
+cloudflared.tgz
+cert_*.pem
+key_*.pem
+__pycache__/
+*.pyc
+.venv/
